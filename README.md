@@ -16,9 +16,10 @@ Columns:
 - **Age_groups:** Categorization of age into groups (Young_adults, Middle_adults, Senior_adults, Old_adults)
 - **bmi_levels:** Categorization of BMI into levels (low, medium, moderate, high)
 - **smoker_status:** Smoker status (Smoker, Non-Smoker)
+
 **Exploratory Data Analysis (EDA)**
 
-**The analysis includes:**
+The analysis includes:
 - Data loading and basic information
 - Checking for duplicates and handling them
 - Handling null values
