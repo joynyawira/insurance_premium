@@ -6,16 +6,16 @@ This repository contains a dataset and analysis related to insurance premiums. T
 Dataset Information
 
 Columns:
-age: Age of the individual
-sex: Gender of the individual (0: male, 1: female)
-bmi: Body Mass Index (BMI) of the individual
-children: Number of children/dependents covered by insurance
-smoker: Smoking status (0: non-smoker, 1: smoker)
-region: Geographic region of the individual (encoded as 0, 1, 2, 3)
-charges: Insurance charges for the individual
-Age_groups: Categorization of age into groups (Young_adults, Middle_adults, Senior_adults, Old_adults)
-bmi_levels: Categorization of BMI into levels (low, medium, moderate, high)
-smoker_status: Smoker status (Smoker, Non-Smoker)
+- **age:** Age of the individual
+- **sex:** Gender of the individual (0: male, 1: female)
+- **bmi:** Body Mass Index (BMI) of the individual
+- **children:** Number of children/dependents covered by insurance
+- **smoker:** Smoking status (0: non-smoker, 1: smoker)
+- **region:** Geographic region of the individual (encoded as 0, 1, 2, 3)
+- **charges:** Insurance charges for the individual
+- **Age_groups:** Categorization of age into groups (Young_adults, Middle_adults, Senior_adults, Old_adults)
+- **bmi_levels:** Categorization of BMI into levels (low, medium, moderate, high)
+- **smoker_status:** Smoker status (Smoker, Non-Smoker)
 
 Exploratory Data Analysis (EDA)
 The analysis includes:
