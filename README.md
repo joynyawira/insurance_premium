@@ -18,7 +18,6 @@ Columns:
 - **smoker_status:** Smoker status (Smoker, Non-Smoker)
 
 **Exploratory Data Analysis (EDA)**
-
 The analysis includes:
 - Data loading and basic information
 - Checking for duplicates and handling them
